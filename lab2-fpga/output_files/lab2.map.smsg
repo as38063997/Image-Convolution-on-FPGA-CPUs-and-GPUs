@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at lab2_tb.sv(94): object "TEST_IMAGE" differs only in case from object "test_image" in the same scope File: C:/Users/group/Downloads/lab2-fpga/lab2_tb.sv Line: 94
+Warning (10268): Verilog HDL information at lab2.sv(88): always construct contains both blocking and non-blocking assignments File: C:/Users/group/Downloads/lab2-fpga/lab2.sv Line: 88
