@@ -1,0 +1,19 @@
+Quartus Prime Archive log --	C:/Users/group/Downloads/lab2-fpga/Lab2_Kuan-Yu_Chang.qarlog
+
+Archive:	C:/Users/group/Downloads/lab2-fpga/Lab2_Kuan-Yu_Chang.qar
+Date:		Tue Nov 04 22:07:25 2025
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+C:/Users/group/Downloads/lab2-fpga/lab2.qpf
+C:/Users/group/Downloads/lab2-fpga/lab2.qsf
+C:/Users/group/Downloads/lab2-fpga/lab2.sdc
+C:/Users/group/Downloads/lab2-fpga/lab2.sv
+C:/Users/group/Downloads/lab2-fpga/lab2_tb.sv
+C:/Users/group/Downloads/lab2-fpga/simulation/modelsim/lab2.vcd
+C:/Users/group/Downloads/lab2-fpga/simulation/modelsim/lab2_dump_all_vcd_nodes.tcl
+c:/intelfpga/20.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 8 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
